@@ -1,1 +1,1 @@
-# -Aplicativo-Face-Finder-completo
+# Aplicativo-Face-Finder-completo
